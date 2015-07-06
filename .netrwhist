@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/past9/Code/hackysack'
+let g:netrw_dirhist_2='/home/past9/Code'
+let g:netrw_dirhist_3='/home/past9'
+let g:netrw_dirhist_4='/home/past9/Code/hackysack'
+let g:netrw_dirhist_5='/home/past9/Code'
+let g:netrw_dirhist_6='/home/past9'
